@@ -1,0 +1,55 @@
+.child{
+  width: 20%;
+  background-color: yellowgreen;
+  border: 1px solid #ddd;
+  padding: 2%;
+  margin: 1%;
+  text-align: center;
+  box-shadow: 0px 8px 8px -8px rgb(29, 192, 151);
+}
+.parent{
+  display: flex;
+  justify-content: center;
+}
+.child img{
+  width: 50%;
+}
+.child a{
+  color: red;
+  text-decoration:none;
+}
+.btn{
+  background-color: rgb(120, 35, 231);
+  padding: 2%;
+  border-radius: 50%;
+}
+.child2{
+  text-align: left;
+  background-color: rgb(120, 140, 231);
+  border:1px solid #ddd;
+  width: 70%;
+  padding: 1%;
+  margin: 1%;
+  border-color: red;
+  border-radius: 20px;
+}
+body{
+  background-image: url("fb.svg");
+  background-color: red;
+}
+.child1{
+  text-align: center;
+  height: 39%;
+  background-color: wheat;
+  border:1px solid #ddd;
+  padding: 1%;
+  margin: 1%;
+  border-color: red;
+  border-radius: 20px;
+}
+.skill{
+  background-color: lightgreen;
+  padding: .5%;
+  margin: 1%;
+  border-radius: 15px;
+}

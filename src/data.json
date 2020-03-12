@@ -1,0 +1,72 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "Name":"Vasantha Surya","Role":"Front End Developer","Email":"vasanthmullapudi@gmail.com","Mobile":"+91 9849340329"
+            },
+            "Education":[
+                {
+                    "Degree":"s.s.c","Percentage":"9.5","Institution":"Sri chaitanya"
+                },
+                {
+                    "Degree":"Intermediate","Percentage":"97.2","Institution":"Sri chaitanya"
+                },
+                {
+                    "Degree":"B.Tech","Percentage":"8.6","Institution":"VVIT"
+                }
+            ],
+            "Skills":[
+                {
+                    "Type":"Programming Languages",
+                    "Values":["c","c++","java","python","LISP"]
+                },
+                {
+                    "Type":"Web Technologies",
+                    "Values":["html","css","java script"]
+                },
+                {
+                    "Type":"Framework and Libraries",
+                    "Values":["ReactJS"]
+                },
+                {
+                    "Type":"Operating System",
+                    "Values":["Winows","Linux","Unix","Mac"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "Name":"Harish","Role":"Front End Developer","Email":"paladuguharish100@gmail.com","Mobile":"+91 9701507260"
+            },
+            "Education":[
+                {
+                    "Degree":"s.s.c","Percentage":"9.5","Institution":"Chinmaya Vidyalaya"
+                },
+                {
+                    "Degree":"Intermediate","Percentage":"94.8","Institution":"Sri chaitanya"
+                },
+                {
+                    "Degree":"B.Tech","Percentage":"8.4","Institution":"VVIT"
+                }
+            ],
+            "Skills":[
+                {
+                    "Type":"Programming Languages",
+                    "Values":["c","c++","java","python","LISP"]
+                },
+                {
+                    "Type":"Web Technologies",
+                    "Values":["html","css","java script"]
+                },
+                {
+                    "Type":"Framework and Libraries",
+                    "Values":["ReactJS"]
+                },
+                {
+                    "Type":"Operating System",
+                    "Values":["Winows","Linux","Unix","Mac"]
+                }
+            ]
+        }
+    ]
+}
